@@ -1,0 +1,17 @@
+.colors-form {
+  max-width: 150px;
+  max-height: 30px;
+  margin: 0 0 10px 0;
+  padding: 0;
+}
+
+.colors-form form {
+  margin: 0;
+  padding: 0;
+}
+
+.colors-form input {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}

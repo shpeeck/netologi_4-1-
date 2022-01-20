@@ -1,0 +1,19 @@
+.colors-rgb {
+  width: 150px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(17, 17, 17, 50%);
+
+  margin: 0;
+  padding: 0;
+}
+.colors-rgb p {
+  width: 100%;
+  height: 20px;
+  color: rgb(255, 255, 255);
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
